@@ -3,9 +3,6 @@ def find_item_by_name_in_collection(name, collection)
   # Implement me first!
   #
   # Consult README for inputs and outputs
-  if name == collection[0][:name] do
-    return name
-  end
 end
 
 def consolidate_cart(cart)
