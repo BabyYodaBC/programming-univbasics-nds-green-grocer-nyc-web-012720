@@ -3,8 +3,8 @@ def find_item_by_name_in_collection(name, collection)
   # Implement me first!
   #
   # Consult README for inputs and outputs
-  if name == (collection[0][:item])
-    return collection[0][:item]
+  if name == (collection[:item])
+    return collection[:item]
   end
 end
 
